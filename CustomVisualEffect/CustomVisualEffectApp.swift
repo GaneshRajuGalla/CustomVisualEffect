@@ -11,7 +11,8 @@ import SwiftUI
 struct CustomVisualEffectApp: App {
     var body: some Scene {
         WindowGroup {
-            ScrollEffectsBootCamp()
+           // ScrollEffectsBootCamp()
+            CustomVisualEffect()
         }
     }
 }

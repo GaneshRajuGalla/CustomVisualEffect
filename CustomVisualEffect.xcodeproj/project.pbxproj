@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E4DA4562C38F7E000685124 /* CustomVisualEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4DA4552C38F7D100685124 /* CustomVisualEffect.swift */; };
 		6E7212D92C377BA30030A9BD /* CustomVisualEffectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7212D82C377BA30030A9BD /* CustomVisualEffectApp.swift */; };
 		6E7212DB2C377BA30030A9BD /* ScrollEffectsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7212DA2C377BA30030A9BD /* ScrollEffectsBootCamp.swift */; };
 		6E7212DD2C377BA50030A9BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E7212DC2C377BA50030A9BD /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E4DA4552C38F7D100685124 /* CustomVisualEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomVisualEffect.swift; sourceTree = "<group>"; };
 		6E7212D52C377BA30030A9BD /* CustomVisualEffect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomVisualEffect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E7212D82C377BA30030A9BD /* CustomVisualEffectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomVisualEffectApp.swift; sourceTree = "<group>"; };
 		6E7212DA2C377BA30030A9BD /* ScrollEffectsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollEffectsBootCamp.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 		6E7212D72C377BA30030A9BD /* CustomVisualEffect */ = {
 			isa = PBXGroup;
 			children = (
+				6E4DA4552C38F7D100685124 /* CustomVisualEffect.swift */,
 				6E7212D82C377BA30030A9BD /* CustomVisualEffectApp.swift */,
 				6E7212DA2C377BA30030A9BD /* ScrollEffectsBootCamp.swift */,
 				6E7212DC2C377BA50030A9BD /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				6E7212DB2C377BA30030A9BD /* ScrollEffectsBootCamp.swift in Sources */,
 				6E7212D92C377BA30030A9BD /* CustomVisualEffectApp.swift in Sources */,
+				6E4DA4562C38F7E000685124 /* CustomVisualEffect.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
