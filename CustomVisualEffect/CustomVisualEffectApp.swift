@@ -12,7 +12,8 @@ struct CustomVisualEffectApp: App {
     var body: some Scene {
         WindowGroup {
            // ScrollEffectsBootCamp()
-            CustomVisualEffect()
+            //CustomVisualEffect()
+            MeshGradients()
         }
     }
 }
